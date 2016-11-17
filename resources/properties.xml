@@ -1,0 +1,24 @@
+<resources>
+
+	<properties>
+		<property id="username_prop" type="string"></property>
+		<property id="password_prop" type="string"></property>
+
+	</properties>
+
+	<strings>
+		<string id="username_title">Username</string>
+		<string id="password_title">Password</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="username_prop" title="username_title">
+			<settingConfig type="alphaNumeric" required="true" />
+		</setting>
+
+		<setting propertyKey="password_prop" title="password_title">
+			<settingConfig type="password" required="true" />
+		</setting>
+		
+	</settings>
+</resources>

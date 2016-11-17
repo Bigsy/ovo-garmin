@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="10" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="14" pc="268435477" symbol="onLayout"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="15" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="21" pc="268435517" symbol="onShow"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="25" pc="268435520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="27" pc="268435522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="29" pc="268435539" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="30" pc="268435557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="33" pc="268435575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="35" pc="268435582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="38" pc="268435592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="41" pc="268435612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="46" pc="268435647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="53" pc="268435708" symbol="onHide"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="56" pc="268435711" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="57" pc="268435713" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="58" pc="268435733" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="62" pc="268435760" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="63" pc="268435773" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="64" pc="268435786" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="65" pc="268435810" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoView.mc" lineNum="68" pc="268435897" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="6" pc="268435914" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="7" pc="268435916" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="11" pc="268435935" symbol="onStart"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="15" pc="268435938" symbol="onStop"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="19" pc="268435941" symbol="getInitialView"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="20" pc="268435943" symbol="getInitialView"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\ovoApp.mc" lineNum="21" pc="268435973" symbol="getInitialView"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="16" pc="268436049" symbol="onMenu"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="17" pc="268436051" symbol="onMenu"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="18" pc="268436063" symbol="onMenu"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="21" pc="268436067" symbol="onSelect"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="22" pc="268436069" symbol="onSelect"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="23" pc="268436081" symbol="onSelect"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="26" pc="268436085" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="27" pc="268436087" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="29" pc="268436104" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="30" pc="268436122" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="31" pc="268436140" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="33" pc="268436163" symbol="makeRequest"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="47" pc="268436253" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="48" pc="268436255" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="49" pc="268436277" symbol="initialize"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="53" pc="268436288" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="54" pc="268436290" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="55" pc="268436301" symbol="onReceive"/>
+<entry filename="C:\\Users\\bill\\workspace\\ovo\\source\\WebRequestDelegate.mc" lineNum="57" pc="268436330" symbol="onReceive"/>
+<entry filename="Rez" lineNum="21" pc="268436366" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268436368" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268436499" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268436551" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268436603" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="ovoApp"/>
+<entry field="true" id="16" symbol="username_title"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="15" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389115" symbol="mMessage"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="21" method="true" symbol="makeRequest"/>
+<entry field="true" id="17" symbol="password_title"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="13" symbol="id_monkey"/>
+<entry field="true" id="20" symbol="notify"/>
+<entry id="8" object="true" symbol="ovoView"/>
+<entry id="10" object="true" symbol="WebRequestDelegate"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="19" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="22" symbol="mView"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435707" name="password" stackId="3" startPc="268435522"/>
+<entry endPc="268435707" name="app" stackId="2" startPc="268435522"/>
+<entry endPc="268435707" name="username" stackId="4" startPc="268435522"/>
+<entry endPc="268435894" name="i" stackId="3" startPc="268435810"/>
+<entry endPc="268435894" name="keys" stackId="2" startPc="268435760"/>
+<entry endPc="268436252" name="password" stackId="2" startPc="268436087"/>
+<entry endPc="268436252" name="app" stackId="1" startPc="268436087"/>
+<entry endPc="268436252" name="username" stackId="3" startPc="268436087"/>
+<entry endPc="268436620" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436368"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="ovoView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="ovoView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="ovoView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ovoView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="ovoView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="ovoView">
+<param id="args"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ovoApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="ovoApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="ovoApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="ovoApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="makeRequest" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WebRequestDelegate">
+<param id="handler"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="WebRequestDelegate">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
