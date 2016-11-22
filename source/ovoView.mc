@@ -2,6 +2,8 @@ using Toybox.WatchUi as Ui;
 
 using Toybox.Application as App;
 using Toybox.Graphics as Gfx;
+using Toybox.System;
+
 
 class ovoView extends Ui.View {
     hidden var mMessage = "Press menu button";
@@ -59,7 +61,10 @@ class ovoView extends Ui.View {
         }
         else if (args instanceof Dictionary) {
             // Print the arguments duplicated and returned by httpbin.org
+            
             var keys = args.keys();
+            System.println("Hello Monkey C!" + keys);
+            
             mMessage = "";
             for( var i = 0; i < keys.size(); i++ ) {
                 mMessage += Lang.format("$1$: $2$\n", [keys[i], args[keys[i]]]);
